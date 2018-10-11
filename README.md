@@ -11,8 +11,8 @@
 | Time | 2018 Fall | 
 | Place| Nanjing University  | 
 | Teacher| [Wei Gao](http://lamda.nju.edu.cn/gaow/)  | 
-| Student| undergraduates, a lot of them aren;t major in CS :) | 
-| Property | Compulsory for undergraduates majoyed in CS |
+| Student| undergraduates, a lot of them aren't majored in CS :) | 
+| Property | Elective for undergraduates majoyed in CS |
 
 
 
