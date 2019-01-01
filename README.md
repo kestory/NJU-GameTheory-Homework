@@ -21,10 +21,10 @@
 
 reason why spend time and energy on this :
 
-```
-wanna high points
-the TA said that you'd better not hand on the notebooks 
-'cause notebooks will not be send anymore :)
-better visual effect
-```
+
+* wanna high points
+* the TA said that you'd better not hand on the notebooks   
+'cause notebooks will not be sent back anymore :-)
+* better visual effect
+
 
