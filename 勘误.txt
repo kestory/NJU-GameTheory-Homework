@@ -1,0 +1,23 @@
+勘误（相较于发布在QQ群中的课件，这里已用PDFexpert修改）
+Chapter2
+P14，玩家2在R时的预期收益"5"->"2"
+P19&P20 玩家1的策略a1a2的"a"的字体不一样，一个是“a”一个是“𝑎”，建议都改为“𝑎”
+P20&P21 的第一行， Palyers拼写typo，应该为Players
+P20 这一页是不是可以考虑删掉？标题的3Players在下一页也有阐述，而附带的图仍然是上一页的2x2 games
+Chapter5.1
+第四行后的2:??都该改为1:??
+Chapter6
+P4 建议把Ballet和Football换一下位置，和后几页吻合
+Chapter7
+P7 标题有误：Maxmin->Minmax
+Ch9
+P9 A(G)->A(∅)
+Ch10
+P4 最后一行问号去了
+P12 指数上的T-1 -> T
+P19 两个paly->play
+P22 一个paly->play
+P41 K后面的≥改为≤
+Ch11
+P25 20% ->   10%
+P28 分母的12 和 18 改为 10
